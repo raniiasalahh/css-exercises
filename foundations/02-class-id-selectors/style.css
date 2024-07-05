@@ -1,0 +1,15 @@
+.odd {
+  background-color: lightpink;
+  font-family: Verdana, "dejavu sans", sans-serif;
+}
+#even {
+  color: blue;
+  font-size: 36px;
+}
+.diff {
+  font-size: 24px;
+}
+#evenn {
+  background-color: lightgreen;
+  font-weight: bold;
+}
