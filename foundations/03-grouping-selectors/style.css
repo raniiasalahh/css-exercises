@@ -1,0 +1,15 @@
+.blackk,
+.yelloww {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blackk {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.yelloww {
+  background-color: yellow;
+}
